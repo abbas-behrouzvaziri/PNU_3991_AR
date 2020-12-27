@@ -8,7 +8,7 @@
 # عباس بهروزوزيري
 - [PNU_3991_AR](https://github.com/abbas-behrouzvaziri/PNU_3991_AR)
 - [Resume](https://abbas-behrouzvaziri.github.io/abbasbehrouzvazirii/) 
-- [SOP]()
+- [SOP](https://abbas-behrouzvaziri.github.io/Sop/)
 - [Certificates]()
 - [GitHub](https://github.com/abbas-behrouzvaziri)
 
