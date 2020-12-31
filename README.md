@@ -15,7 +15,7 @@
 ------------------
 ## فهرست درس ها  
 
-[نظريه زبانهاوماشين ها 02-1115157]()
+[نظريه زبانهاوماشين ها 02-1115157](https://github.com/abbas-behrouzvaziri/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 
 
 --------------
