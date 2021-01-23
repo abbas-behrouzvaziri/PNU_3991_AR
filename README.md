@@ -21,16 +21,14 @@
 --------------
 ## گروه های درسی
 
-6. G-L06
-   1. [_LMT01-40_صغری عزیزی**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/40_%D8%B5%D8%BA%D8%B1%D9%8A%20%D8%B9%D8%B2%D9%8A%D8%B2%D9%8A)
-   2. [_LMT01-59_مژگان متقی ثابت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/59_%D9%85%DA%98%DA%AF%D8%A7%D9%86%20%D9%85%D8%AA%D9%82%D9%8A%20%D8%AB%D8%A7%D8%A8%D8%AA)
-   3. [_LMT01-54_حمید کشاورز خورشیدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/54_%D8%AD%D9%85%D9%8A%D8%AF%20%D9%83%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%20%D8%AE%D9%88%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A)
-   4. [_LMT01-45_سحر علی محمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/45_%D8%B3%D8%AD%D8%B1%20%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A)
-   5. [_LMT01-52_الهام کرمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/52_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
-   6. [_LMT01-28_محدثه روحانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/28_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A)
-   7. [_LMT02-19_مسعود جعفری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/19_%D9%85%D8%B3%D8%B9%D9%88%D8%AF%20%D8%AC%D8%B9%D9%81%D8%B1%20%D9%8A)
-   8. [_LMT02-13_عباس بهروز وزیری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/13_%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A8%D9%87%D8%B1%D9%88%D8%B2%D9%88%D8%B2%D9%8A%D8%B1%D9%8A)
-   9. [_LMT02-10_مرضیه بختیاری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/10_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1%D9%8A)
+4. G-L06
+    1. [_TLM01-56_میرمحمد کمالی**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/56_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)    
+    1. [_TLM01-37 آناهیتا طاهری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/37_%D8%A7%D9%86%D8%A7%D9%87%D9%8A%D8%AA%D8%A7%20%D8%B7%D8%A7%D9%87%D8%B1%D9%8A)    
+    1. [_TLM01-48 عطیه فرخی حاجی آبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/48_%D8%B9%D8%B7%D9%8A%D9%87%20%D9%81%D8%B1%D8%AE%D9%8A%20%D8%AD%D8%A7%D8%AC%D9%8A%20%D8%A7%D8%A8%D8%A7%D8%AF)      
+    1. [_TLM01-55 سحر کلیائی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/55_%D8%B3%D8%AD%D8%B1%20%D9%83%D9%84%D9%8A%D8%A7%D9%8A%D9%8A)    
+    1. [_TLM01-02 زهرا احمدی پردستی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/02_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A%20%D9%BE%D8%B1%D8%AF%D8%B3%D8%AA%D9%8A)   
+    1. [_TLM01-44 امین عباس علی پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/44_%D8%A7%D9%85%D9%8A%D9%86%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%B9%D9%84%D9%8A%20%D9%BE%D9%88%D8%B1)
+    1. [_LMT02-13_عباس بهروز وزیری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/13_%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A8%D9%87%D8%B1%D9%88%D8%B2%D9%88%D8%B2%D9%8A%D8%B1%D9%8A)
    
 ------------------
 <div align="center">
