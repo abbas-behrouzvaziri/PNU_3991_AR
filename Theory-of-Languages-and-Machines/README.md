@@ -7,6 +7,7 @@
 
 ----------------
 - [لاتک]()
+- [ارائه لاتک](https://github.com/abbas-behrouzvaziri/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/example.mp4)
  - [لینک پروژه](http://mir-mohammad.github.io/learning/)
  
  
