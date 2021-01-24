@@ -12,6 +12,16 @@
 - [Certificates](https://abbas-behrouzvaziri.github.io/Certificates/)
 - [GitHub](https://github.com/abbas-behrouzvaziri)
 
+-------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/abbas-behrouzvaziri/PNU_3991_AR/blob/main/_General/AB_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/abbas-behrouzvaziri/PNU_3991_AR/blob/main/_General/AB_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی نظريه زبانهاوماشين ها](https://github.com/abbas-behrouzvaziri/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AB_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
 ------------------
 ## فهرست درس ها  
 
